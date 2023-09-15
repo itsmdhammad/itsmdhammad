@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M Hammad
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on such projects.
+- 👀 I’m interested in Mobile Application Development
+- 🌱 Exploring React Native
+- 💞️ Looking for Internships.
 - 📫 Reach me via mail: itsmdhammad@gmail.com
 
