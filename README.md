@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M Hammad.
-- 👀 I am committed to becoming a frontend web developer.
-- 🌱 I Worked as Mern Stack Trainee at Knowledge Stream, Lahore, Pakistan.
+- 👀 I am a web developer.
+- 🌱 I worked as WordPress Developer on several projects.
 - 💞️ Actively looking for Internships/Jobs.
 - 📫 Reach me via mail: itsmdhammad@gmail.com
