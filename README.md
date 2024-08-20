@@ -1,5 +1,4 @@
-- 👋 Hi, I’m M Hammad.
+- 👋 Hi.
 - 👀 I am a web developer.
 - 🌱 I worked as WordPress Developer on several projects.
 - 💞️ Actively looking for Internships/Jobs.
-- 📫 Reach me via mail: itsmdhammad@gmail.com
