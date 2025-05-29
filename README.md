@@ -1,4 +1,4 @@
-- 👋 Hi.
-- 👀 I am a web developer.
-- 🌱 I worked as WordPress Developer on several projects.
+- 👋 Hi. I'm Muhammad Hammad.
+- 👀 I am a web developer, currently working as WordPress Web Developer.
+- 🌱 Building Skills in Front end technologies.
 - 💞️ Actively looking for Internships/Jobs.
