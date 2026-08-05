@@ -1,4 +1,2 @@
-- 👋 Hi. I'm Muhammad Hammad.
-- 👀 I am a web developer, currently working as WordPress Web Developer.
-- 🌱 Building Skills in Front end technologies.
-- 💞️ Actively looking for Internships/Jobs.
+Experienced developer currently transitioning into QA/Software Testing. Sharpening my skills in testing methodologies, quality assurance practices, and hands-on projects as I build toward this new focus.
+📧 itsmdhammad@gmail.com
